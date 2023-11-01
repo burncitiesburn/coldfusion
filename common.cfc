@@ -1,6 +1,6 @@
 component {
-    
-	public commonUDF function init() {
+
+	public common function init() {
 		return this;
 	}
 
